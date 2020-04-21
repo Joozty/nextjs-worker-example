@@ -9,9 +9,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "6.1.1",
-    "react": "16.4.1",
-    "react-dom": "16.4.1",
+    "next": "9.3.5",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
     "worker-loader": "2.0.0"
   }
 }
